@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(66): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(72): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(60): warning C4101: 'roznica': unreferenced local variable
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\Debug\gnuplot_test.exe
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\Debug\gnuplot_test.pdb (Full PDB)

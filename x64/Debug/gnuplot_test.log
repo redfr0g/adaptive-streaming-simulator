@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(76): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub brzozowski\desktop\aisde_lab2b\main.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\x64\Debug\gnuplot_test.exe
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\x64\Debug\gnuplot_test.pdb (Full PDB)

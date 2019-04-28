@@ -1,0 +1,20 @@
+﻿  main.cpp
+main.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(72): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(127): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 272 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\x64\Release\gnuplot_test.exe
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\x64\Release\gnuplot_test.pdb (Full PDB)

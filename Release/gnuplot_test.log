@@ -1,0 +1,21 @@
+﻿  main.cpp
+main.cpp(76): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+main.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+main.cpp(126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(140): warning C4018: '<': signed/unsigned mismatch
+main.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 272 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\Release\gnuplot_test.exe
+  gnuplot_test.vcxproj -> C:\Users\Jakub Brzozowski\Desktop\AISDE_LAB2B\Release\gnuplot_test.pdb (Full PDB)
